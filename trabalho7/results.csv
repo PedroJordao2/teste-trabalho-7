@@ -1,0 +1,5 @@
+timestamp,algoritmo,no_inicial,recurso,ttl,encontrado,no_resposta,caminho,total_mensagens,total_nos
+2026-06-14T19:43:06,flooding,n1,r5,3,true,n5,n1->n2->n5,8,8
+2026-06-14T19:43:50,flooding,n1,r13,4,true,n7,n1->n2->n4->n7,8,8
+2026-06-14T19:53:46,flooding,n1,r7,4,true,n7,n1->n2->n4->n7,8,8
+2026-06-14T19:54:02,flooding,n1,r3,4,true,n3,n1->n3,8,8
