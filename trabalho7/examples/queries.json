@@ -1,0 +1,6 @@
+[
+  {"node_id": "n1", "resource_id": "r5", "ttl": 4, "algo": "flooding"},
+  {"node_id": "n1", "resource_id": "r5", "ttl": 2, "algo": "random_walk"},
+  {"node_id": "n3", "resource_id": "r1", "ttl": 3, "algo": "informed_flooding"}
+]
+
